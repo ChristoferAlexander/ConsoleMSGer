@@ -1,0 +1,11 @@
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\bin\Debug\MessegerClient.exe.config
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\bin\Debug\MessegerClient.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\bin\Debug\MessegerClient.pdb
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\obj\Debug\MessegerClient.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\obj\Debug\MessegerClient.pdb
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\MessegerClient\MessegerClient\obj\Debug\MessegerClient.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\ChatProject\MessegerClient\MessegerClient\bin\Debug\MessegerClient.exe.config
+C:\Users\Chris\Desktop\ChatProject\MessegerClient\MessegerClient\obj\Debug\MessegerClient.exe
+C:\Users\Chris\Desktop\ChatProject\MessegerClient\MessegerClient\obj\Debug\MessegerClient.pdb

@@ -1,0 +1,22 @@
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Server.exe.config
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleServer.exe.config
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
+C:\Users\Chris\Desktop\ChatProject\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+C:\Users\Chris\Desktop\ChatProject\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+C:\Users\Chris\Desktop\ChatProject\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
