@@ -1,6 +1,6 @@
 ### Multithreaded Console Chat Server/Client
 
-How to use : 
+#### How to use : 
   1. Download 'MSGer Server Runnalbe' folder contents
   2. Run ConsoleServer.exe
   3. Download 'MSGer Client Runnable' folder contents
